@@ -1,0 +1,22 @@
+Модель: APARCH
+Распределение: normal
+Успешное завершение: True
+Сообщение оптимизатора: Optimization terminated successfully.
+Метод оптимизации: Powell
+Число наблюдений: 987
+LLF: 3437.509263
+AIC: -6859.018525
+BIC: -6819.861165
+AIC / n: -6.949360
+BIC / n: -6.909687
+
+     parameter           coef        std.err              z          p>|z|
+------------------------------------------------------------------------------
+            mu      -0.000113            nan            nan            nan
+           phi       0.097678            nan            nan            nan
+         theta      -0.054729            nan            nan            nan
+         omega       0.000001            nan            nan            nan
+         alpha       0.038955            nan            nan            nan
+         gamma      -0.993388            nan            nan            nan
+          beta       0.899271            nan            nan            nan
+         delta       2.059157            nan            nan            nan

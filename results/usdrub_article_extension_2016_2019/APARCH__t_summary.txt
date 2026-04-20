@@ -1,0 +1,23 @@
+Модель: APARCH
+Распределение: t
+Успешное завершение: True
+Сообщение оптимизатора: CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH
+Метод оптимизации: L-BFGS-B
+Число наблюдений: 987
+LLF: 3505.166168
+AIC: -6992.332336
+BIC: -6948.280306
+AIC / n: -7.084430
+BIC / n: -7.039798
+
+     parameter           coef        std.err              z          p>|z|
+------------------------------------------------------------------------------
+            mu      -0.000060            nan            nan            nan
+           phi       0.085035            nan            nan            nan
+         theta      -0.053214            nan            nan            nan
+         omega       0.000001            nan            nan            nan
+         alpha       0.027481            nan            nan            nan
+         gamma      -0.998938            nan            nan            nan
+          beta       0.926719            nan            nan            nan
+         delta       2.054558            nan            nan            nan
+            nu       5.100858            nan            nan            nan

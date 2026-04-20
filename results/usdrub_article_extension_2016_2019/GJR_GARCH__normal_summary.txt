@@ -1,0 +1,21 @@
+Модель: GJR-GARCH
+Распределение: normal
+Успешное завершение: False
+Сообщение оптимизатора: ABNORMAL: 
+Метод оптимизации: L-BFGS-B
+Число наблюдений: 987
+LLF: 3425.143872
+AIC: -6836.287745
+BIC: -6802.025055
+AIC / n: -6.926330
+BIC / n: -6.891616
+
+     parameter           coef        std.err              z          p>|z|
+------------------------------------------------------------------------------
+            mu      -0.000844            nan            nan            nan
+           phi       0.401726            nan            nan            nan
+         theta      -0.387298            nan            nan            nan
+         omega       0.000006            nan            nan            nan
+         alpha       0.255491            nan            nan            nan
+         gamma      -0.171111            nan            nan            nan
+          beta       0.743509            nan            nan            nan

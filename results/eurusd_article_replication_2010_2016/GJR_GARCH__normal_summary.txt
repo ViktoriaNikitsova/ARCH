@@ -1,0 +1,21 @@
+Модель: GJR-GARCH
+Распределение: normal
+Успешное завершение: True
+Сообщение оптимизатора: Optimization terminated successfully.
+Метод оптимизации: Powell
+Число наблюдений: 1825
+LLF: 6845.591201
+AIC: -13677.182402
+BIC: -13638.617055
+AIC / n: -7.494347
+BIC / n: -7.473215
+
+     parameter           coef        std.err              z          p>|z|
+------------------------------------------------------------------------------
+            mu      -0.000212            nan            nan            nan
+           phi      -0.438565            nan            nan            nan
+         theta       0.399804            nan            nan            nan
+         omega       0.000000            nan            nan            nan
+         alpha       0.005261            nan            nan            nan
+         gamma       0.018478            nan            nan            nan
+          beta       0.984039            nan            nan            nan

@@ -1,0 +1,22 @@
+Модель: GJR-GARCH
+Распределение: t
+Успешное завершение: True
+Сообщение оптимизатора: CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH
+Метод оптимизации: L-BFGS-B
+Число наблюдений: 1825
+LLF: 6905.832773
+AIC: -13795.665545
+BIC: -13751.590863
+AIC / n: -7.559269
+BIC / n: -7.535118
+
+     parameter           coef        std.err              z          p>|z|
+------------------------------------------------------------------------------
+            mu      -0.000137            nan            nan            nan
+           phi      -0.437652            nan            nan            nan
+         theta       0.400181            nan            nan            nan
+         omega       0.000000            nan            nan            nan
+         alpha       0.005709            nan            nan            nan
+         gamma       0.018732            nan            nan            nan
+          beta       0.983862            nan            nan            nan
+            nu       7.998686            nan            nan            nan

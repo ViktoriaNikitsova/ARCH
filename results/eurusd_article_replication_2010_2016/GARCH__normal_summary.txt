@@ -1,0 +1,20 @@
+Модель: GARCH
+Распределение: normal
+Успешное завершение: True
+Сообщение оптимизатора: Optimization terminated successfully.
+Метод оптимизации: Powell
+Число наблюдений: 1825
+LLF: 6841.184720
+AIC: -13670.369441
+BIC: -13637.313429
+AIC / n: -7.490613
+BIC / n: -7.472501
+
+     parameter           coef        std.err              z          p>|z|
+------------------------------------------------------------------------------
+            mu      -0.000180            nan            nan            nan
+           phi       0.001722            nan            nan            nan
+         theta      -0.038646            nan            nan            nan
+         omega       0.000000            nan            nan            nan
+         alpha       0.021620            nan            nan            nan
+          beta       0.975659            nan            nan            nan

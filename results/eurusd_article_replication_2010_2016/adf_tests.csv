@@ -1,0 +1,17 @@
+metric,value,block
+series,rate,rate
+adf_stat,-1.1842820684199968,rate
+pvalue,0.6803203608227412,rate
+used_lag,0,rate
+nobs,1824,rate
+crit_1pct,-3.433940201056092,rate
+crit_5pct,-2.8631258735235106,rate
+crit_10pct,-2.5676142653629,rate
+series,log_return,log_return
+adf_stat,-43.20559199000624,log_return
+pvalue,0.0,log_return
+used_lag,0,log_return
+nobs,1824,log_return
+crit_1pct,-3.433940201056092,log_return
+crit_5pct,-2.8631258735235106,log_return
+crit_10pct,-2.5676142653629,log_return

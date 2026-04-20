@@ -1,0 +1,23 @@
+Модель: GARCH-M
+Распределение: skewt
+Успешное завершение: True
+Сообщение оптимизатора: CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH
+Метод оптимизации: L-BFGS-B
+Число наблюдений: 987
+LLF: 3492.861797
+AIC: -6967.723594
+BIC: -6923.671564
+AIC / n: -7.059497
+BIC / n: -7.014865
+
+     parameter           coef        std.err              z          p>|z|
+------------------------------------------------------------------------------
+            mu       0.000678            nan            nan            nan
+           phi       0.788683            nan            nan            nan
+         theta      -0.823399            nan            nan            nan
+      lambda_m      -0.028788            nan            nan            nan
+         omega       0.000001            nan            nan            nan
+         alpha       0.079264            nan            nan            nan
+          beta       0.892328            nan            nan            nan
+            nu       7.999256            nan            nan            nan
+          skew       1.049895            nan            nan            nan

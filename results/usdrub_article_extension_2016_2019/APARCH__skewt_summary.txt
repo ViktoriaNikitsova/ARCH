@@ -1,0 +1,24 @@
+Модель: APARCH
+Распределение: skewt
+Успешное завершение: True
+Сообщение оптимизатора: CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH
+Метод оптимизации: L-BFGS-B
+Число наблюдений: 987
+LLF: 3505.892334
+AIC: -6991.784667
+BIC: -6942.837967
+AIC / n: -7.083875
+BIC / n: -7.034284
+
+     parameter           coef        std.err              z          p>|z|
+------------------------------------------------------------------------------
+            mu      -0.000014            nan            nan            nan
+           phi       0.085518            nan            nan            nan
+         theta      -0.052658            nan            nan            nan
+         omega       0.000001            nan            nan            nan
+         alpha       0.027467            nan            nan            nan
+         gamma      -0.997890            nan            nan            nan
+          beta       0.926225            nan            nan            nan
+         delta       2.053568            nan            nan            nan
+            nu       5.100705            nan            nan            nan
+          skew       1.049897            nan            nan            nan

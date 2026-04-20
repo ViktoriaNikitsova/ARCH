@@ -1,0 +1,23 @@
+Модель: GJR-GARCH
+Распределение: skewt
+Успешное завершение: True
+Сообщение оптимизатора: Optimization terminated successfully
+Метод оптимизации: SLSQP
+Число наблюдений: 1825
+LLF: 6898.596092
+AIC: -13779.192184
+BIC: -13729.608167
+AIC / n: -7.550242
+BIC / n: -7.523073
+
+     parameter           coef        std.err              z          p>|z|
+------------------------------------------------------------------------------
+            mu      -0.000093            nan            nan            nan
+           phi      -0.437125            nan            nan            nan
+         theta       0.400399            nan            nan            nan
+         omega       0.000000            nan            nan            nan
+         alpha       0.005707            nan            nan            nan
+         gamma       0.018356            nan            nan            nan
+          beta       0.983499            nan            nan            nan
+            nu       7.997847            nan            nan            nan
+          skew       1.049686            nan            nan            nan

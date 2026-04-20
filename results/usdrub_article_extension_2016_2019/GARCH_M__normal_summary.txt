@@ -1,0 +1,21 @@
+Модель: GARCH-M
+Распределение: normal
+Успешное завершение: True
+Сообщение оптимизатора: CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH
+Метод оптимизации: L-BFGS-B
+Число наблюдений: 987
+LLF: 3413.399489
+AIC: -6812.798979
+BIC: -6778.536288
+AIC / n: -6.902532
+BIC / n: -6.867818
+
+     parameter           coef        std.err              z          p>|z|
+------------------------------------------------------------------------------
+            mu       0.000628            nan            nan            nan
+           phi       0.788625            nan            nan            nan
+         theta      -0.823919            nan            nan            nan
+      lambda_m      -0.031661            nan            nan            nan
+         omega       0.000002            nan            nan            nan
+         alpha       0.079287            nan            nan            nan
+          beta       0.892584            nan            nan            nan
